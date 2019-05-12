@@ -1,2 +1,3 @@
 # TradfriApi
-Ikea Trädfri Api
+ASP.NET Core Api to control Ikea Trädfri products
+
